@@ -5,7 +5,6 @@ public class JenkinsTest {
 		// TODO Auto-generated method stub
 		//TEST
 		System.out.println("ciao");
-		System.out.println("ciao");
 	}
 
 }
