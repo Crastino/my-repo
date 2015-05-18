@@ -1,4 +1,6 @@
 #ignore files
 
-/.classpath
-/.project
+.classpath
+.project
+/.settings
+/build/classes
